@@ -7,7 +7,7 @@
 [![pytorch](https://img.shields.io/badge/PyTorch-1.6.0-EE4C2C.svg?style=flat&logo=pytorch)](https://pytorch.org)
 [![tensorflow](https://img.shields.io/badge/TensorFlow-1.12-FF6F00.svg?style=flat&logo=tensorflow)](https://www.tensorflow.org)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soonhobahng)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GSInsight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Currently interested in ...
 
